@@ -1,0 +1,10 @@
+{
+    "opd1": {
+        "username": "admin_opd1",
+        "password": "password123"
+    },
+    "opd2": {
+        "username": "admin_opd2",
+        "password": "password123"
+    }
+}
